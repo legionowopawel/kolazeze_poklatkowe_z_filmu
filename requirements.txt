@@ -1,0 +1,9 @@
+```plaintext
+opencv-python==4.11.0.86
+pillow==11.2.1
+numpy==2.2.6
+reportlab==4.4.1
+psutil==7.0.0
+chardet==5.2.0
+ffmpeg-python==0.2.0
+future==1.0.0
