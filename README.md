@@ -19,6 +19,7 @@ W katalogu znajduje się program główny `main.py`. Aby go uruchomić, wpisz:
 ```bash
 python main.py
 
-## Rezulatat dla 2x2
+## Rezultat dla 2x2
 
-![Example](./images/example.png)
+![Przykład](images/example.png)
+
