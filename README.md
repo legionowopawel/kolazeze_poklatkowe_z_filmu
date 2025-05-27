@@ -16,7 +16,6 @@
 
 W katalogu znajduje się program główny `main.py`. Aby go uruchomić, wpisz:
 
-```bash
 python main.py
 
 ## Rezultat dla 2x2
