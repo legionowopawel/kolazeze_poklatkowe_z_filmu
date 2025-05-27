@@ -21,4 +21,4 @@ python main.py
 
 ## Rezulatat dla 2x2
 
-![Interfejs](./images/example.png)
+![Pzyklad](./images/example.png)
